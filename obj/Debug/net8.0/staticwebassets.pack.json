@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\Images\\Products\\Taplet.jpg"
     },
     {
+      "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\Images\\instructors\\david.jpg",
+      "PackagePath": "staticwebassets\\Images\\instructors\\david.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\Images\\instructors\\lisa.jpg",
+      "PackagePath": "staticwebassets\\Images\\instructors\\lisa.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\Images\\instructors\\robert.jpg",
+      "PackagePath": "staticwebassets\\Images\\instructors\\robert.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\Images\\trainees\\alex.jpg",
+      "PackagePath": "staticwebassets\\Images\\trainees\\alex.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\Images\\trainees\\emma.jpg",
+      "PackagePath": "staticwebassets\\Images\\trainees\\emma.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\Images\\trainees\\james.jpg",
+      "PackagePath": "staticwebassets\\Images\\trainees\\james.jpg"
+    },
+    {
       "Id": "D:\\Projects\\Mvc Christin\\Shop\\Shop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
