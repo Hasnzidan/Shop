@@ -249,6 +249,88 @@
       ]
     },
     {
+      "Route": "Images/instructors/ahmed.1dotppgj2u.jpg",
+      "AssetFile": "Images/instructors/ahmed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a2J23rT56ZOzEZREVw2EQIqHrgtzWfxKo2YOqByONL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 00:12:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1dotppgj2u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a2J23rT56ZOzEZREVw2EQIqHrgtzWfxKo2YOqByONL0="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/instructors/ahmed.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "Images/instructors/ahmed.jpg",
+      "AssetFile": "Images/instructors/ahmed.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a2J23rT56ZOzEZREVw2EQIqHrgtzWfxKo2YOqByONL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 00:12:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a2J23rT56ZOzEZREVw2EQIqHrgtzWfxKo2YOqByONL0="
+        }
+      ]
+    },
+    {
       "Route": "Images/instructors/david.fmtk5y6kkd.jpg",
       "AssetFile": "Images/instructors/david.jpg",
       "Selectors": [],
